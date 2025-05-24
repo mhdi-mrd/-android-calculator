@@ -1,4 +1,4 @@
-package com.example.myapplication; // این باید با اسم package بالای فایل‌ات یکی باشه
+package com.example.myapplication; 
 
 import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
